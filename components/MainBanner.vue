@@ -1,7 +1,7 @@
 <template>
     <section class="bg-[#F8E2C7] h-590px">
         <div class="content flex justify-center mx-auto w-1376px">
-            <img src="/capa_1.png" alt="Capa">
+            <img src="capa_1.png" alt="Capa">
         </div>
         <div class="line"></div>
     </section>
