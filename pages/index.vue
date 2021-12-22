@@ -2,6 +2,8 @@
   <div>    
     <MainBanner />
     <About />
+    <Reseller />
+    <Magazine />
   </div>
 </template>
 
