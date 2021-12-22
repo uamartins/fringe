@@ -2,7 +2,7 @@
     <section class="flex justify-center flex-col">
         <div class="frase flex justify-center flex-col">
             <p class="desde mx-auto mt-90px">
-                DESDE 1996 TRAZENDO OPORTUNIDADE DE NEGÓCIO PARA AS PESSOAS
+                DESDE 2000 TRAZENDO OPORTUNIDADE DE NEGÓCIO PARA AS PESSOAS
             </p>
 
             <p class="distribuidora mx-auto mt-60px">
