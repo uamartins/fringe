@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "prepare": "nuxi prepare",
+    "start": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "nuxt-windicss": "latest",
+    "nuxt3": "latest"
+  }
+}
