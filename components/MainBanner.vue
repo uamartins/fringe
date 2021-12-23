@@ -1,20 +1,14 @@
 <template>
-    <section class="bg-[#F8E2C7] h-590px">
-        <div class="content flex justify-center mx-auto ">
-            <img src="https://s3.us-west-2.amazonaws.com/sparta.files/site/capa_1.png" alt="Capa" class="w-7xl">
+    <section class="bg-[#F8E2C7] pt-2">
+        <div class="content flex justify-center mx-auto">
+            <img src="https://s3.us-west-2.amazonaws.com/sparta.files/site/capa_1.png" alt="Capa" class="max-w-7xl h-136">
         </div>
-        <div class="line"></div>
+        <div class="line h-8"></div>
     </section>
 </template>
 
 <style>
-.content {
-    height: calc(100% - 33px);
-}
-
-.line {
-    width: 100%;
-    height: 33px;
+.line {    
     background: linear-gradient(
         90deg,
         #8c6330 3.28%,

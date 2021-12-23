@@ -1,6 +1,6 @@
 <template>
-    <nav class="flex justify-items-center mt-60px">
-        <ul class="flex space-x-6">
+    <nav class="">
+        <ul class="flex gap-32px">
             <li>
                 <a
                     href="#"
@@ -9,8 +9,6 @@
                         hover:text-white
                         px-3
                         py-2
-                        text-sm
-                        font-medium
                     "
                     >HOME</a
                 >
@@ -23,8 +21,6 @@
                         hover:text-white
                         px-3
                         py-2
-                        text-sm
-                        font-medium
                     "
                     >SOBRE NÓS</a
                 >
@@ -37,8 +33,6 @@
                         hover:text-white
                         px-3
                         py-2
-                        text-sm
-                        font-medium
                     "
                     >SEJA REVENDEDOR(A)</a
                 >
@@ -52,8 +46,6 @@
                         px-3
                         py-2
                         rounded-md
-                        text-sm
-                        font-medium
                     "
                     >PRODUTOS</a
                 >
@@ -67,8 +59,6 @@
                         px-3
                         py-2
                         rounded-md
-                        text-sm
-                        font-medium
                     "
                     >CONTATO</a
                 >
@@ -76,3 +66,11 @@
         </ul>
     </nav>
 </template>
+
+<style>
+nav a {
+    font-family: "Raleway", sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+}
+</style>
