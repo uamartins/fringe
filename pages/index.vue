@@ -4,6 +4,7 @@
     <About />
     <Reseller />
     <Magazine />
+    <Product />
   </div>
 </template>
 
