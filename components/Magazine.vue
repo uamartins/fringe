@@ -11,7 +11,7 @@
                     p-3
                 "
             >
-                <img class="magazine-img" src="/img/magazine1.png" />
+                <img class="magazine-img" src="https://s3.us-west-2.amazonaws.com/sparta.files/site/magazine1.png" />
             </div>
             <div
                 class="
@@ -23,7 +23,7 @@
                     p-3
                 "
             >
-                <img class="magazine-img" src="/img/magazine2.png" />
+                <img class="magazine-img" src="https://s3.us-west-2.amazonaws.com/sparta.files/site/magazine2.png" />
             </div>
             <div
                 class="
@@ -35,7 +35,7 @@
                     p-3
                 "
             >
-                <img class="magazine-img" src="/img/magazine3.png" />
+                <img class="magazine-img" src="https://s3.us-west-2.amazonaws.com/sparta.files/site/magazine3.png" />
             </div>
             <div
                 class="
@@ -47,7 +47,7 @@
                     p-3
                 "
             >
-                <img class="magazine-img" src="/img/magazine4.png" />
+                <img class="magazine-img" src="https://s3.us-west-2.amazonaws.com/sparta.files/site/magazine4.png" />
             </div>
         </div>
         <div class="centro flex justify-center gap-x-16">
@@ -61,7 +61,7 @@
                     p-3
                 "
             >
-                <img class="magazine-img" src="/img/magazine5.png" />
+                <img class="magazine-img" src="https://s3.us-west-2.amazonaws.com/sparta.files/site/magazine5.png" />
             </div>
             <div
                 class="
@@ -73,7 +73,7 @@
                     p-3
                 "
             >
-                <img class="magazine-img" src="/img/magazine6.png" />
+                <img class="magazine-img" src="https://s3.us-west-2.amazonaws.com/sparta.files/site/magazine6.png" />
             </div>
             <div
                 class="
@@ -85,7 +85,7 @@
                     p-3
                 "
             >
-                <img class="magazine-img" src="/img/magazine7.png" />
+                <img class="magazine-img" src="https://s3.us-west-2.amazonaws.com/sparta.files/site/magazine7.png" />
             </div>
             <div
                 class="
@@ -97,7 +97,7 @@
                     p-3
                 "
             >
-                <img class="magazine-img" src="/img/magazine8.png" />
+                <img class="magazine-img" src="https://s3.us-west-2.amazonaws.com/sparta.files/site/magazine8.png" />
             </div>
         </div>
     </section>

@@ -14,7 +14,7 @@
             >
                 <img 
                     class="w-275px h-275px"
-                    src="/img/product1.png"
+                    src="https://s3.us-west-2.amazonaws.com/sparta.files/site/product1.png"
                 />
                 <p class="titulo-produto titulo pt-2">Deo Côlonia Everlast 150ml</p>
             </div>
@@ -31,7 +31,7 @@
             >
                 <img 
                     class="w-275px h-275px"
-                    src="/img/product2.png"
+                    src="https://s3.us-west-2.amazonaws.com/sparta.files/site/product2.png"
                 />
                 <p class="titulo-produto titulo pt-2">Kit completo Mel e Restauração</p>
             </div>
@@ -48,7 +48,7 @@
             >
                 <img 
                     class="w-275px h-275px"
-                    src="/img/product3.png"
+                    src="https://s3.us-west-2.amazonaws.com/sparta.files/site/product3.png"
                 />
                 <p class="titulo-produto titulo pt-2">Kit completo Fios de Seda</p>
             </div>
@@ -65,7 +65,7 @@
             >
                 <img 
                     class="w-275px h-275px"
-                    src="/img/product4.png"
+                    src="https://s3.us-west-2.amazonaws.com/sparta.files/site/product4.png"
                 />
                 <p class="titulo-produto titulo pt-2">Pomada massageadora Canela de Velho</p>
             </div>

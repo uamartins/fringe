@@ -61,7 +61,7 @@
                 <div>
                     <img 
                         class="w-121px h-65px ml-7.5rem"
-                        src="/img/footer1.png" 
+                        src="https://s3.us-west-2.amazonaws.com/sparta.files/site/footer1.png" 
                     />
                 </div>
             </div>
