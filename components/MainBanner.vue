@@ -1,7 +1,7 @@
 <template>
     <section class="bg-[#F8E2C7] pt-2">
         <div class="content flex justify-center mx-auto">
-            <img src="https://s3.us-west-2.amazonaws.com/sparta.files/site/capa_1.png" alt="Capa" class="max-w-7xl h-136">
+            <img src="https://s3.us-west-2.amazonaws.com/sparta.files/site/capa_1.png" alt="Capa" class="h-136">
         </div>
         <div class="line h-8"></div>
     </section>
